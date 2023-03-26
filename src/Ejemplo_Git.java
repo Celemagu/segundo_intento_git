@@ -5,6 +5,8 @@ public class Ejemplo_Git {
 		
 		String nombre= "Cesar Mateus";
 		
+		System.out.println(nombre)
+		
 	}
 }
 	
