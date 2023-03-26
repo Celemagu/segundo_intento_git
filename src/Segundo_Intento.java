@@ -7,7 +7,5 @@ public class Segundo_Intento {
 		String nombre= "Cesar Mateus";
 		
 		System.out.println(nombre);
-		
-		System.out.println("Lo logré");
-			}
+				}
 }
