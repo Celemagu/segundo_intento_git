@@ -3,6 +3,8 @@ public class Ejemplo_Git {
 		//Prueba Cesar GIT
 		System.out.println("mi primer commmit");
 		
+		String nombre= "Cesar Mateus";
+		
 	}
 }
 	
