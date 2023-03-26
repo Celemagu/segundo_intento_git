@@ -8,6 +8,6 @@ public class Segundo_Intento {
 		
 		System.out.println(nombre);
 		
-		System.out.println("Lo logré");
+		System.out.println("Lo logré 2");
 				}
 }
